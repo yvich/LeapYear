@@ -6,3 +6,5 @@ In a calendar year, it is exactly 365.25 days. But, eventually, this will lead t
 In this challenge, though quite repetitive, we'll take it to a new level, where you are to determine if it's a leap year or not without the use of the Date() class, switch statements, if blocks, if-else blocks or ternary operation (x ? a : b) nor the logical operators AND (&&) and OR (||) with the exemption of the NOT (!) operator.
 
 Return true if it's a leap year, false otherwise.
+
+challenge taken from [edabit](https://edabit.com/challenge/nNtYHuSDgnCq8gFvh) , level :expert
